@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Purnima!
-- 👀 I’m interested in computer vision & data analytics using Python and R.
-- 🌱 I’m currently learning GCP & Machine Learning.
+- 👀 I'm currently working in the fields of machine learning & data analytics using Python and R.
 - 📫 How to reach me -> @purnimalal009@gmail.com or LinkedIn -> @purnima-lal
 
 <!---
