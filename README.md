@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Purnima!
-- 👀 I'm currently working in the fields of machine learning & data analytics using Python and R.
+- 👋 Hi, I’m Purnima! I'm a Computer Engineer.
+- 👀 I'm currently working in the fields of machine learning & data science using Python and R.
 - 📫 How to reach me -> @purnimalal009@gmail.com or LinkedIn -> @purnima-lal
 
 <!---
